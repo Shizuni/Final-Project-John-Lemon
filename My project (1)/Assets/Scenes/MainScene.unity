@@ -5709,6 +5709,31 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 7a8785fd5c31a0b43ab7f65c78e35729, type: 2}
+    - target: {fileID: 5280204086816824725, guid: 93d788e8705a3b143b23f2d337157e39,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 566109427}
+    - target: {fileID: 5280204086816824725, guid: 93d788e8705a3b143b23f2d337157e39,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 1875667967}
+    - target: {fileID: 6040517285071069473, guid: 93d788e8705a3b143b23f2d337157e39,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6040517285071069473, guid: 93d788e8705a3b143b23f2d337157e39,
+        type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 566109427}
+    - target: {fileID: 6040517285071069473, guid: 93d788e8705a3b143b23f2d337157e39,
+        type: 3}
+      propertyPath: chaseSpeed
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 93d788e8705a3b143b23f2d337157e39, type: 3}
 --- !u!1001 &6797431485373248912
